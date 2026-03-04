@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from "framer-motion";
 import { Mail, Phone, Linkedin } from 'lucide-react';
 
 const team = [
@@ -8,7 +8,7 @@ const team = [
     bio: 'Captain Shakdweep is the Founder of our platform and the visionary behind the company’s mission to simplify access to instant financial solutions. With strong leadership and strategic direction, he guides the organization toward innovation and growth.',
     mobile: '9607184602',
     email: 'sagarmishr7@gmail.com',
-    image: 'https://storage.googleapis.com/content-api-storage/v1/projects/ais-dev-nkkni6qiy37353ejn3ywfd-408216098131/locations/asia-southeast1/buckets/content-api-storage/objects/input_file_0.png',
+    image: "/captain.jpeg",
     social: '#'
   },
   {
@@ -17,7 +17,7 @@ const team = [
     bio: 'Otis Singh serves as the Co-Founder and plays a key role in developing business strategies and partnerships. His dedication and business insight contribute significantly to the growth and success of the platform.',
     mobile: '7066659051',
     email: 'jerryatbusiness@gmail.com',
-    image: 'https://storage.googleapis.com/content-api-storage/v1/projects/ais-dev-nkkni6qiy37353ejn3ywfd-408216098131/locations/asia-southeast1/buckets/content-api-storage/objects/input_file_1.png',
+    image: "/otis.jpeg",
     social: '#'
   },
   {
@@ -26,7 +26,7 @@ const team = [
     bio: 'Popeye Ansari is the Co-Founder responsible for technology and digital development. With expertise in web development and innovative solutions, he ensures the platform remains modern, efficient, and user-friendly.',
     mobile: '8850202568',
     email: 'sadik.work4fam@gmail.com',
-    image: 'https://storage.googleapis.com/content-api-storage/v1/projects/ais-dev-nkkni6qiy37353ejn3ywfd-408216098131/locations/asia-southeast1/buckets/content-api-storage/objects/input_file_2.png',
+    image: "/popeye.jpeg",
     social: '#'
   }
 ];
