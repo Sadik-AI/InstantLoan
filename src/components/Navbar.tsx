@@ -20,6 +20,7 @@ export default function Navbar() {
     { name: 'How It Works', href: '#how-it-works' },
     { name: 'Leadership', href: '#leadership' },
     { name: 'Eligibility', href: '#features' },
+    { name: 'Snake', href: '#snake-game' },
     { name: 'FAQ', href: '#faq' },
     { name: 'Contact', href: '#footer' },
   ];

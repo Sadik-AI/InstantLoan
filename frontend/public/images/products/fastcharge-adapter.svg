@@ -1,0 +1,16 @@
+<svg width="640" height="480" viewBox="0 0 640 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="480" rx="40" fill="#FFF5F5"/>
+  <rect x="190" y="110" width="176" height="210" rx="28" fill="#111111"/>
+  <rect x="216" y="132" width="124" height="166" rx="20" fill="url(#paint0_linear)"/>
+  <rect x="366" y="144" width="20" height="64" rx="10" fill="#D4D4D8"/>
+  <rect x="392" y="144" width="20" height="64" rx="10" fill="#D4D4D8"/>
+  <path d="M366 292C425.688 292 496 326.5 496 365.5C496 382.897 481.897 397 464.5 397C447.103 397 433 382.897 433 365.5C433 348.103 447.103 334 464.5 334C481.897 334 496 348.103 496 365.5" stroke="#E60000" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="464" cy="365" r="34" fill="#111111"/>
+  <text x="320" y="438" fill="#111111" font-family="Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">Dell 65W USB-C</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="216" y1="132" x2="340" y2="298" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF5858"/>
+      <stop offset="1" stop-color="#4A0000"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# WS Computer
 
-# Run and deploy your AI Studio app
+Premium full-stack web application for a computer shop offering laptop sales, accessories, repairs, software installation, and data recovery.
 
-This contains everything you need to run your app locally.
+## Stack
 
-View your app in AI Studio: https://ai.studio/apps/7f865648-3c03-41de-8998-bb015bf8a34a
+- Frontend: React + Vite + Tailwind CSS v4 + Framer Motion
+- Backend: Node.js + Express + MongoDB + Mongoose
+- Database notes: [`database/README.md`](./database/README.md)
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
+## Local Setup
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+2. Copy `.env.example` to `.env` and update the MongoDB connection string if needed.
+3. Make sure MongoDB is running locally, or provide an Atlas connection string.
+4. Start frontend and backend together:
+   `npm run dev:full`
+5. Open `http://localhost:3000`
+
+## Scripts
+
+- `npm run dev` starts the Vite frontend
+- `npm run server` starts the Express API in watch mode
+- `npm run dev:full` runs both together
+- `npm run build` builds the frontend and compiles the backend
+- `npm run start` runs the compiled backend server
+- `npm run lint` type-checks frontend and backend
+
+## Project Structure
+
+- `frontend/` contains the React UI
+- `backend/` contains the Express API and MongoDB integration
+- `database/` contains the MongoDB schema notes and sample document

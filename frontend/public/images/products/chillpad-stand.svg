@@ -1,0 +1,15 @@
+<svg width="640" height="480" viewBox="0 0 640 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="480" rx="40" fill="#F5F5F5"/>
+  <path d="M156 124H484L542 304H98L156 124Z" fill="#111111"/>
+  <path d="M182 148H458L500 282H140L182 148Z" fill="url(#paint0_linear)"/>
+  <circle cx="262" cy="214" r="46" fill="#FFFFFF" fill-opacity="0.16"/>
+  <circle cx="378" cy="214" r="46" fill="#FFFFFF" fill-opacity="0.16"/>
+  <path d="M204 356H436L400 404H240L204 356Z" fill="#E60000"/>
+  <text x="320" y="438" fill="#111111" font-family="Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">ChillPad Cooling Stand</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="182" y1="148" x2="462" y2="276" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF7777"/>
+      <stop offset="1" stop-color="#111111"/>
+    </linearGradient>
+  </defs>
+</svg>

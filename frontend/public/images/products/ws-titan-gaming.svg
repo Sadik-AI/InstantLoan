@@ -1,0 +1,15 @@
+<svg width="640" height="480" viewBox="0 0 640 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="480" rx="40" fill="#09090B"/>
+  <rect x="88" y="72" width="464" height="286" rx="28" fill="#1A1A1D"/>
+  <rect x="108" y="92" width="424" height="246" rx="20" fill="url(#paint0_linear)"/>
+  <path d="M320 108L368.387 178.125L450.728 171.217L400.934 237.875L424.984 316.783L348.187 287.8L280.969 335.1L283.297 252.82L215.016 206.055L293.251 184.184L320 108Z" fill="#FFFFFF" fill-opacity="0.18"/>
+  <rect x="72" y="364" width="496" height="24" rx="12" fill="#E60000"/>
+  <text x="320" y="440" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle">HP OMEN 16</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="108" y1="92" x2="532" y2="338" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6E0000"/>
+      <stop offset="0.45" stop-color="#E60000"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>

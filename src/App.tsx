@@ -7,6 +7,7 @@ import Leadership from './components/Leadership';
 import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
+import SnakeGame from './components/SnakeGame';
 import { motion } from 'motion/react';
 
 export default function App() {
@@ -24,6 +25,8 @@ export default function App() {
         <Leadership />
         
         <EMICalculator />
+
+        <SnakeGame />
         
         <Testimonials />
         
